@@ -1,12 +1,12 @@
 # AZIMOV JUMPGATE
 
-AZIMOV JUMPGATE é um seletor de servidores para Overwatch 2 no Windows. O programa permite bloquear regiões específicas usando regras do Firewall do Windows, ajudando o jogador a evitar servidores indesejados e manter mais controle sobre a rota de conexão.
+AZIMOV JUMPGATE é um seletor de servidores para Overwatch no Windows. O programa permite bloquear regiões específicas usando regras do Firewall do Windows, ajudando o jogador a evitar servidores indesejados e manter mais controle sobre a rota de conexão.
 
 O projeto foi construído em C++ com interface em Dear ImGui, DirectX 11 e integração com APIs nativas do Windows.
 
 ## Recursos
 
-- Bloqueio de regiões do Overwatch 2 pelo Firewall do Windows.
+- Bloqueio de regiões do Overwatch pelo Firewall do Windows.
 - Lista de servidores com ping estimado para cada região.
 - Tunelamento por aplicativo, limitando os bloqueios ao executável do Overwatch.
 - Botão para desbloquear rapidamente todos os servidores.
